@@ -1,0 +1,5 @@
+in your workspace /src
+$ git clone -b noetic-devel https://github.com/ros-planning/navigation.git
+$ git clone https://github.com/ros-perception/slam_gmapping.git
+$ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3.git
+$ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations
